@@ -7,6 +7,7 @@ Simple test scenario for PasswordGame, using pytest and playwright.
 ## Initial installation:
 
 python3 -m pip install -r requirements.txt
+
 playwright install
 
 ## Usage:
